@@ -1,0 +1,3 @@
+Assumptions:
+1. Any voltage/current source with name other than starting with 'I' will be taken as voltage source
+2. text file will be ended with one EOL when viewed in sublime text
